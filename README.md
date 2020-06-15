@@ -21,7 +21,7 @@ SDA5708|arduino
 4 - SDCLK|SCK
 5 - /RESET|Pullup Resistor 10k or as well digital Pin for software controlled Reset
 6 - Gnd|Gnd
-- |MISO -> **not connected !** as there is no data sent by the display
+_ |MISO -> **not connected !** as there is no data sent by the display
 
 Data and SDCLK do not need pullup/down resistor as they are pulled from the AVR.
 
