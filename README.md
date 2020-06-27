@@ -30,3 +30,5 @@ Data and SDCLK do not need pullup/down resistor as they are pulled from the AVR.
 Here you'll find more info about the Display:
 https://www.sbprojects.net/knowledge/footprints/sda5708/index.php
 
+font found here:
+https://os.mbed.com/users/wim/code/SDA5708//file/fa31d04e35a4/SDA5708.cpp/
