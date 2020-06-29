@@ -3,7 +3,7 @@
 The intention of this Lib is to access the display using Arduinos hardware SPI instead of bitbanging everything as what most of the examples found on the internet are doing.
 
 As this Display has no clue about a font and how characters look like it cannot be used as a typical character display right away, as would be the case with an HD44780. 
-It's more like a 5x7 dot matrix graphic display having 8 characters, 30x7 so to say.
+It's more like a 5x7 dot matrix graphic display having 8 characters, 40x7 so to say.
 
 This means we need a font library providing 5x7 pixel character faces.
 
