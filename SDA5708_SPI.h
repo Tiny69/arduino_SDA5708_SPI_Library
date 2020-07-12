@@ -26,6 +26,8 @@ public:
     void init();
     void clear();
     void brightness(uint8_t);
+    void graph(uint8_t, 
+        uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t);
     virtual size_t write(uint8_t);
 
 
